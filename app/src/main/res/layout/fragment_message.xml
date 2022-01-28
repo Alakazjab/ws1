@@ -54,9 +54,9 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Игра престолов"
-                    android:textSize="18sp"
+                    android:textStyle="bold"
+                    android:textSize="15sp"
                     android:layout_weight="1"/>
-
 
                 <TextView
                     android:layout_width="match_parent"
@@ -92,7 +92,8 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Стрела"
-                    android:textSize="18sp"
+                    android:textStyle="bold"
+                    android:textSize="15sp"
                     android:layout_weight="1"/>
                 <TextView
                     android:layout_width="match_parent"
@@ -128,7 +129,8 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Джесика Джонс"
-                    android:textSize="18sp"
+                    android:textStyle="bold"
+                    android:textSize="15sp"
                     android:layout_weight="1"/>
                 <TextView
                     android:layout_width="match_parent"
@@ -165,7 +167,8 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Леденящие душу приключения С..."
-                    android:textSize="18sp"
+                    android:textStyle="bold"
+                    android:textSize="15sp"
                     android:layout_weight="1"/>
 
                 <TextView

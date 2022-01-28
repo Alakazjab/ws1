@@ -45,6 +45,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Воланд Иванов"
+                    android:textStyle="bold"
                     android:textSize="24sp" />
                 <TextView
                     android:layout_width="wrap_content"
@@ -72,6 +73,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Обсуждения"
+                android:textStyle="bold"
                 android:textSize="14sp"
                 android:layout_weight="1"/>
 
@@ -98,6 +100,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="История"
+                android:textStyle="bold"
                 android:layout_weight="1"/>
 
             <ImageView
@@ -123,6 +126,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Настройки"
+                android:textStyle="bold"
                 android:layout_weight="1"/>
 
             <ImageView
@@ -146,6 +150,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Выход"
+                android:textStyle="bold"
                 android:textSize="14sp"
                 android:textColor="@color/button" />
         </LinearLayout>
