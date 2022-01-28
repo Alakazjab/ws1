@@ -59,6 +59,7 @@
                     android:layout_weight="1"/>
 
                 <TextView
+                    android:id="@+id/m1"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
@@ -96,6 +97,7 @@
                     android:textSize="15sp"
                     android:layout_weight="1"/>
                 <TextView
+                    android:id="@+id/m2"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
@@ -133,6 +135,7 @@
                     android:textSize="15sp"
                     android:layout_weight="1"/>
                 <TextView
+                    android:id="@+id/m3"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
@@ -172,11 +175,12 @@
                     android:layout_weight="1"/>
 
                 <TextView
+                    android:id="@+id/m4"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:text="Иван: Смотрели уже последнюю серию? Я просто поверить не могу в..."
-                    android:textSize="16sp" />
+                    android:textSize="15sp" />
 
                 <LinearLayout
                     android:layout_width="match_parent"
